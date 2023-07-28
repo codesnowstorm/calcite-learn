@@ -1,1 +1,1 @@
-# calcite-learn
+# calcite-example
